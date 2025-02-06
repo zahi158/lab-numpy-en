@@ -8,9 +8,9 @@ An important ability of a data scientist/data engineer is to know where and how 
 
 ## Getting Started
 
-Open the `main.py` file in the `your-code` directory with your favorite text editor. There are a bunch of commentations starting with `#` which instruct what you are supposed to do step by step. Follow the order of the instructions from top to bottom. Read each instruction carefully and provide your answer beneath it. You should also test your answers in Python in the terminal to make sure your responses are correct. If one of your responses is incorrect, you may not be able to proceed because later responses may depend upon previous responses.
+Open the `main.ipynb` file in the `your-code` directory with your favorite text editor. There are a bunch of commentations starting with `#` which instruct what you are supposed to do step by step. Follow the order of the instructions from top to bottom. Read each instruction carefully and provide your answer beneath it. You should also test your answers in Python in the terminal to make sure your responses are correct. If one of your responses is incorrect, you may not be able to proceed because later responses may depend upon previous responses.
 
-For instance, in the first few lines of `main.py`, you see:
+For instance, in the first few lines of `main.ipynb`, you see:
 
 ```python
 #1. Import the NUMPY package under the name np.
@@ -33,15 +33,15 @@ print(np.version.version)
 
 :bulb: The `#` sign in Python allows you to make single-line commentation. The `"""` (triple quotes) allows you to make multi-line commentation. Remember you always need a pair of triple quotes and you insert your commentations in between.
 
-Continue answering each question until you reach the end of `main.py`.
+Continue answering each question until you reach the end of `main.ipynb`.
 
 ## Deliverables
 
-- `main.py` with your responses to each of the instructions.
+- `main.ipynb` with your responses to each of the instructions.
 
 ## Submission
 
-Upon completion, add your version of `main.py` to git. Then commit git and push your branch to the remote.
+Upon completion, add your version of `main.ipynb` to git. Then commit git and push your branch to the remote.
 
 ## Resources
 
